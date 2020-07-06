@@ -14,7 +14,7 @@
 html,
 body {
 	height: 100%;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Burbank Big regular', sans-serif;
 	-webkit-font-smoothing: antialiased;
 	font-smoothing: antialiased;
 }
@@ -113,7 +113,7 @@ ol {
 -----------------------*/
 
 .section-title h2 {
-	font-size: 30px;
+	font-size: 60px;
 	text-transform: uppercase;
 	font-weight: 700;
 	font-style: italic;
@@ -531,7 +531,7 @@ ol {
 
 .hero-item p {
 	font-size: 24px;
-	color: rgba(255, 255, 255, 0.4);
+	color: rgb(255, 255, 255);
 	font-weight: 500;
 	opacity: 0.39;
 	margin-bottom: 70px;
@@ -1017,14 +1017,18 @@ ol {
 
 .footer-left-pic {
 	position: absolute;
+	height:200px;
+	width: 200px;
 	left: -13px;
-	bottom: 19px;
+	bottom: 190px;
 }
 
 .footer-right-pic {
 	position: absolute;
-	right: 50px;
-	bottom: 19px;
+	height: 200px;
+	width: 390px;
+	right: -100px;
+	bottom: 150px;
 }
 
 .footer-menu {
