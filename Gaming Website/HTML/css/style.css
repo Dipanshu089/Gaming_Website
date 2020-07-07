@@ -1,6 +1,6 @@
 /* =================================
 ------------------------------------
-  EndGam - Gaming Magazine Template
+  Gaming Ninja
   Version: 1.0
  ------------------------------------
  ====================================*/
@@ -8,7 +8,7 @@
 
 
 /*----------------------------------------*/
-/* Template default CSS
+/* Styling 
 /*----------------------------------------*/
 
 html,
@@ -1083,7 +1083,7 @@ ol {
 .page-info {
 	max-width: 1496px;
 	margin: 0 auto;
-	font-size: 16px;
+	font-size: 18px;
 	color: #fff;
 	padding-left: 60px;
 }
@@ -1486,7 +1486,7 @@ ol {
 	padding-bottom: 20px;
 	margin-bottom: 30px;
 	font-weight: 500;
-	font-size: 16px;
+	font-size: 20px;
 	font-style: italic;
 	color: #fff;
 	line-height: 1;
@@ -1525,7 +1525,7 @@ ol {
 
 .cont-info .ci-text {
 	overflow: hidden;
-	font-size: 16px;
+	font-size: 20px;
 	font-weight: 500;
 }
 
