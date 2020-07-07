@@ -338,7 +338,7 @@ ol {
 
 .user-panel {
 	float: right;
-	font-size: 16px;
+	font-size: 25px;
 	font-weight: 500;
 	color: #fff;
 	padding-top: 3px;
@@ -365,7 +365,7 @@ ol {
 
 .main-menu li a {
 	display: block;
-	font-size: 16px;
+	font-size: 25px;
 	font-weight: 500;
 	color: #fff;
 	margin-right: 40px;
@@ -497,6 +497,12 @@ ol {
 	justify-content: center;
 }
 
+.hero-slider .container video{
+	width: 166%;
+	height: 172%;
+	margin-left: -377px;
+
+}
 .hero-slider .owl-dots .owl-dot.active {
 	color: #b01ba5;
 	border: 2px solid #b01ba5;
@@ -906,9 +912,10 @@ ol {
 .featured-bg {
 	width: calc(50% - 156px);
 	float: left;
-	height: 100%;
+	height: 85%;
 	left: 0;
-	right: 0;
+	right: 40;
+	bottom: 100px;
 	position: absolute;
 }
 
@@ -978,7 +985,7 @@ ol {
 }
 
 .newsletter-form input {
-	font-size: 14px;
+	font-size: 25px;
 	font-weight: 700;
 	font-style: italic;
 	color: #fff;
@@ -1049,7 +1056,7 @@ ol {
 }
 
 .copyright {
-	font-size: 12px;
+	font-size: 18px;
 	font-weight: 500;
 	color: #9190a5;
 	opacity: 0.20;
